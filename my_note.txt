@@ -1,0 +1,11 @@
+Date: 24-04-2024
+Author: Naimur Hasan
+Recruiter Org: Algorithm Generation Ltd.
+
+Task 1.
+
+    List view of 1thk items.
+    1th pos item would be sticky.
+
+Task 2:
+    rust theke hello world printing calling from dart
